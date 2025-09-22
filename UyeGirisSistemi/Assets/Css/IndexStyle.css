@@ -1,0 +1,46 @@
+﻿*{margin:0;padding:0;}
+body {
+    font-family:Calibri;
+}
+.anaTasiyici
+{
+    width:1200px;
+    min-height:600px;
+    border:2px solid silver;
+    border-radius:14px;
+    margin:200px auto;
+}
+.sol{
+    width:400px;
+    min-height:600px;
+    float:left;
+    text-align:center;
+}
+.sag {
+    width: 800px;
+    min-height: 600px;
+    float: left;
+    background-image:url(../Resimler/freepik__adjust__67656.jpeg);
+    border-top-right-radius:14px;
+    border-bottom-right-radius:14px;
+}
+.baslik{
+    font-weight:500;
+    padding-top:15px;
+}
+.baslik h3,h4{
+    padding-top:7px;
+    font-size:16pt;
+}
+.baslik p{
+    padding-top:10px;
+}
+.metinkutu{
+    width:320px;
+    height:40px;
+    border-radius:7px;
+    border:1px solid silver;
+}
+.satir{
+    margin-top:10px;
+}

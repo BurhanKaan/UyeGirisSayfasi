@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\assets\\css\\indexstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\assets\\css\\indexstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\dataaccesslayer\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexStyle.css",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
+              "RelativeDocumentMoniker": "UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
+              "RelativeToolTip": "UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-22T11:54:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Index.aspx",
+              "RelativeDocumentMoniker": "UyeGirisSistemi\\Index.aspx",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Index.aspx",
+              "RelativeToolTip": "UyeGirisSistemi\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-22T11:54:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:53:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\ConnectionStrings.cs",
+              "RelativeToolTip": "DataAccessLayer\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:52:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uyeler.cs",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\Uyeler.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Uyeler.cs",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\Uyeler.cs",
+              "RelativeToolTip": "DataAccessLayer\\Uyeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:51:10.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
