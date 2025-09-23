@@ -17,12 +17,6 @@
                     <p>Sisteme giriş yapmak için doldurunuz.</p>
                 </div>
                 <div class="satir">
-                    <asp:TextBox ID="tb_isim" runat="server" CssClass="metinkutu" placeholder="İsim giriniz"></asp:TextBox>
-                </div>
-                <div class="satir">
-                    <asp:TextBox ID="tb_soyisim" runat="server" CssClass="metinkutu" placeholder="Soyisim giriniz"></asp:TextBox>
-                </div>
-                <div class="satir">
                     <asp:TextBox ID="tb_mail" runat="server" CssClass="metinkutu" placeholder="example@gmail.com"></asp:TextBox>
                 </div>
                 <div class="satir">
@@ -31,6 +25,12 @@
                 <div class="satir">
                     <asp:TextBox ID="tb_sifre" runat="server" CssClass="metinkutu" TextMode="Password" placeholder="Şifrenizi girin"></asp:TextBox>
                 </div>
+                <div class="satir">
+                    <asp:Button ID="btn_giris" runat="server" CssClass="Button" Text="Giriş Yap" OnClick="btn_giris_Click"/>
+                </div>
+                    <asp:Panel ID="pnl_mesaj" runat="server" CssClass="mesaj" Visible="false">
+                        <asp:Label ID="lbl_mesaj" runat="server"></asp:Label>
+                    </asp:Panel>
             </div>
             <div class="sag">
             </div>

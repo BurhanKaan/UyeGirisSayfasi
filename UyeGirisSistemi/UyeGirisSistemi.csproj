@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Css\IndexStyle.css" />
+    <Content Include="Assets\Resimler\6221798.jpg" />
     <Content Include="Assets\Resimler\freepik__adjust__67656.jpeg" />
     <Content Include="Index.aspx" />
     <Content Include="Web.config" />
