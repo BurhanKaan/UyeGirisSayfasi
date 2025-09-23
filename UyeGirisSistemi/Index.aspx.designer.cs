@@ -24,6 +24,24 @@ namespace UyeGirisSistemi
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
+        /// tb_isim control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tb_isim;
+
+        /// <summary>
+        /// tb_soyisim control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tb_soyisim;
+
+        /// <summary>
         /// tb_mail control.
         /// </summary>
         /// <remarks>
@@ -51,13 +69,13 @@ namespace UyeGirisSistemi
         protected global::System.Web.UI.WebControls.TextBox tb_sifre;
 
         /// <summary>
-        /// btn_giris control.
+        /// btn_kayit control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_giris;
+        protected global::System.Web.UI.WebControls.Button btn_kayit;
 
         /// <summary>
         /// pnl_mesaj control.

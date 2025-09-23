@@ -62,5 +62,32 @@ namespace UyeGirisSistemi
                 lbl_mesaj.Text = "Kullanıcı adı geçersiz";
             }
         }
+
+        protected void btn_kayit_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(tb_isim.Text.Trim())) 
+            {
+                if (!string.IsNullOrEmpty(tb_soyisim.Text.Trim()))  
+                {
+                    if (!string.IsNullOrEmpty(tb_mail.Text.Trim())) 
+                    {
+                        if (tb_mail.Text.Contains("@")) 
+                        {
+                            if (!string.IsNullOrEmpty(tb_kadi.Text.Trim())) 
+                            {
+                                if (!string.IsNullOrEmpty(tb_sifre.Text.Trim()))    
+                                {
+                                    Uyeler u = model.UyeKayit(tb_isim.Text.Trim(), tb_soyisim.Text.Trim(), tb_mail.Text.Trim(), tb_kadi.Text.Trim(), tb_sifre.Text.Trim());
+                                    if (u != null)
+                                    {
+                                        Response.Redirect("Index.aspx");
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
 }
