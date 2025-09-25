@@ -1,0 +1,35 @@
+﻿*{margin:0;padding:0;}
+body {
+    background-color: #212121;
+    font-family: Calibri;
+}
+.usttasiyici {
+    width: 100%;
+    height: 50px;
+    background-color: #D3DAD9;
+}
+.icons{
+    width:200px;
+    height:50px;
+    margin-left:300px;
+}
+.icons img{
+    width:25px;
+    height:25px;
+    margin-top:7px;   
+    padding:5px
+}
+.icons a {
+    text-decoration:none;
+}
+.infos{
+    width:300px;
+    height:50px;
+    float:right;
+    margin-top:15px;
+    margin-right:300px;
+}
+    .infos a {
+        text-decoration: none;
+        color: #212121;
+    }

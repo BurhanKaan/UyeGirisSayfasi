@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\uyegirissistemi\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\assets\\css\\mainmenustyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\assets\\css\\mainmenustyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\assets\\css\\indexstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\assets\\css\\indexstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\mainmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\mainmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\uyegirissistemi\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\uyegirissistemi\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\dataaccesslayer\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|c:\\users\\kaana\\source\\repos\\uyegirissayfasi\\uyegirissistemi\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38A8303-0380-4E97-9F82-0E5DBF8DF79A}|UyeGirisSistemi\\UyeGirisSistemi.csproj|solutionrelative:uyegirissistemi\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05527116-C54E-49D0-937F-F31A3E857FD0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "MainMenuStyle.css",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Assets\\Css\\MainMenuStyle.css",
+              "RelativeDocumentMoniker": "UyeGirisSistemi\\Assets\\Css\\MainMenuStyle.css",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Assets\\Css\\MainMenuStyle.css",
+              "RelativeToolTip": "UyeGirisSistemi\\Assets\\Css\\MainMenuStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T06:45:28.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.aspx",
+              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\MainMenu.aspx",
+              "RelativeDocumentMoniker": "UyeGirisSistemi\\MainMenu.aspx",
+              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\MainMenu.aspx",
+              "RelativeToolTip": "UyeGirisSistemi\\MainMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T06:45:01.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Default.aspx",
               "RelativeDocumentMoniker": "UyeGirisSistemi\\Default.aspx",
@@ -55,28 +85,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Index.aspx.cs",
               "RelativeDocumentMoniker": "UyeGirisSistemi\\Index.aspx.cs",
               "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Index.aspx.cs",
               "RelativeToolTip": "UyeGirisSistemi\\Index.aspx.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T12:43:18.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IndexStyle.css",
-              "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
-              "RelativeDocumentMoniker": "UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
-              "ToolTip": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
-              "RelativeToolTip": "UyeGirisSistemi\\Assets\\Css\\IndexStyle.css",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-22T11:54:58.19Z",
               "EditorCaption": ""
             },
             {
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataModel.cs",
               "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\DataModel.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ConnectionStrings.cs",
               "DocumentMoniker": "C:\\Users\\kaana\\source\\repos\\UyeGirisSayfasi\\DataAccessLayer\\ConnectionStrings.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ConnectionStrings.cs",
@@ -115,8 +132,7 @@
               "RelativeToolTip": "DataAccessLayer\\ConnectionStrings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:52:42.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T11:52:42.872Z"
             },
             {
               "$type": "Document",

@@ -29,8 +29,7 @@ namespace UyeGirisSistemi
                             Uyeler u = model.UyeGiris(tb_kadi.Text.Trim(), tb_sifre.Text.Trim(), tb_mail.Text.Trim());
                             if (u != null)
                             {
-                                pnl_mesaj.Visible = true;
-                                lbl_mesaj.Text = "Giriş Başarılı";
+                                Response.Redirect("MainMenu.aspx");
                             }
                             else
                             {

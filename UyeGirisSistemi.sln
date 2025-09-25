@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UyeGirisSistemi", "UyeGiris
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{05527116-C54E-49D0-937F-F31A3E857FD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenu", "MainMenu\MainMenu.csproj", "{478F09BF-E8AE-44CE-BB49-A188D68A03B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{05527116-C54E-49D0-937F-F31A3E857FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05527116-C54E-49D0-937F-F31A3E857FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05527116-C54E-49D0-937F-F31A3E857FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478F09BF-E8AE-44CE-BB49-A188D68A03B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478F09BF-E8AE-44CE-BB49-A188D68A03B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478F09BF-E8AE-44CE-BB49-A188D68A03B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478F09BF-E8AE-44CE-BB49-A188D68A03B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
